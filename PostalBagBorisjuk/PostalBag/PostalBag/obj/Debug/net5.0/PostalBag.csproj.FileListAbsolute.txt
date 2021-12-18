@@ -1,0 +1,5 @@
+F:\Ferda\Škola\DoučkoPRG\csharp-tutoring\PostalBagBorisjuk\PostalBag\PostalBag\obj\Debug\net5.0\PostalBag.csproj.AssemblyReference.cache
+F:\Ferda\Škola\DoučkoPRG\csharp-tutoring\PostalBagBorisjuk\PostalBag\PostalBag\obj\Debug\net5.0\PostalBag.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ferda\Škola\DoučkoPRG\csharp-tutoring\PostalBagBorisjuk\PostalBag\PostalBag\obj\Debug\net5.0\PostalBag.AssemblyInfoInputs.cache
+F:\Ferda\Škola\DoučkoPRG\csharp-tutoring\PostalBagBorisjuk\PostalBag\PostalBag\obj\Debug\net5.0\PostalBag.AssemblyInfo.cs
+F:\Ferda\Škola\DoučkoPRG\csharp-tutoring\PostalBagBorisjuk\PostalBag\PostalBag\obj\Debug\net5.0\PostalBag.csproj.CoreCompileInputs.cache
